@@ -1,0 +1,47 @@
+leftnav:
+- identifier: 33b4c0a4-c11e-3386-5d11-d961412c2f33
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 927224b1-df2b-3482-dd25-b42c1681323e
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: af40002f-c04b-84d3-d892-fb6d2cd0d30c
+  name: Readings
+  pageRef: /pages/readings/
+  weight: 30
+- identifier: c3c056a0-304e-ab96-705e-f0f16b0cb2d4
+  name: Supplemental Readings
+  pageRef: /pages/readings/supplemental-readings
+  parent: af40002f-c04b-84d3-d892-fb6d2cd0d30c
+  weight: 40
+- identifier: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 50
+- identifier: 8a834ebf-9875-aa0c-4d01-8258ad1f859b
+  name: Assignment 1
+  pageRef: /pages/assignments/assignment-1-2013-hometown-analysis
+  parent: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  weight: 60
+- identifier: ee33eb93-3278-81e3-85cc-795888222889
+  name: Assignment 2
+  pageRef: /pages/assignments/assignment-2-2013-epa-open-docket-on-pesticides
+  parent: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  weight: 70
+- identifier: b2968fc7-d835-5148-5d94-31db32836ada
+  name: Assignment 3
+  pageRef: /pages/assignments/assignment-3-2013-observe-a-public-meeting
+  parent: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  weight: 80
+- identifier: 71075161-6b3b-0f5e-c597-1be17a56214f
+  name: Assignment 4
+  pageRef: /pages/assignments/assignment-4-2013-open-ended
+  parent: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  weight: 90
+- identifier: 69001786-622e-217c-0d06-3eba3e6f777b
+  name: Final Assignment
+  pageRef: /pages/assignments/final-assignment
+  parent: d3206c6f-7ca9-a606-7cda-46d6081839e9
+  weight: 100
