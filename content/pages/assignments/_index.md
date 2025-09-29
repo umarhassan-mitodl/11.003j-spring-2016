@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains details about course assignments.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,23 +32,23 @@ MIT students were required to attend a public meeting in the Boston area and wri
 
 ### Links to Public Meetings
 
-{{% resource_link "43b6e7a8-ddce-4037-bfaa-9f0bdcff1c8b" "City of Boston Public Meeting Schedule" %}}
+[City of Boston Public Meeting Schedule](http://www.cityofboston.gov/calendar/cityclerk.asp)
 
-{{% resource_link "98ec555e-cd9e-450e-af92-1e8ee23caef2" "Consumer and Business Affairs Regulation" %}}
+[Consumer and Business Affairs Regulation](http://www.mass.gov/ocabr/searchresults.html?output=xml_no_dtd&client=mg_ocabr&proxystylesheet=massgov&getfields=*&ie=UTF-8&oe=UTF-8&tlen=215&sitefolder=ocabr&filter=0&startsite=CONSUMERx&q=notice+of+hearing+2014&site=CONSUMERx&x=-985&y=-79)
 
-{{% resource_link "fb94c462-37c6-49e4-b389-9827f5499b2a" "Massachusetts Department of Environmental Protection – Public Hearings & Comments" %}}
+[Massachusetts Department of Environmental Protection – Public Hearings & Comments](https://www.mass.gov/info-details/massdep-public-hearings-comment-opportunities)
 
-{{% resource_link "b3d0da2f-87b2-40ae-96e0-18fbfbc1d3ef" "Energy Facilities Sitting Board – Public Hearings" %}}
+[Energy Facilities Sitting Board – Public Hearings](http://www.mass.gov/eea/energy-utilities-clean-tech/energy-facilities-siting-board/siting-board-calendar.html)
 
-{{% resource_link "a3f27201-147a-440b-a302-c2b7e48e0394" "Metropolitan Area Planning Council Events" %}}
+[Metropolitan Area Planning Council Events](https://metrocommon.mapc.org/events)
 
-{{% resource_link "67d0faa8-6c7a-49de-a870-61c94d487ff1" "Massachusetts Water Resources Authority Board Meetings" %}}
+[Massachusetts Water Resources Authority Board Meetings](http://www.mwra.state.ma.us/02org/html/bodmtg.htm)
 
-{{% resource_link "a88a2625-e5c3-48bd-861a-b6c886cd0c55" "Cambridge City Council Meeting Schedule" %}}
+[Cambridge City Council Meeting Schedule](https://cambridgema.iqm2.com/Citizens/LegalNotice.aspx)
 
-{{% resource_link "629b2779-feed-4d77-b3cc-5d26e6d79fec" "Boston City Council Meeting Schedule" %}}
+[Boston City Council Meeting Schedule](https://www.boston.gov/departments/city-council)
 
-{{% resource_link "e43b79f2-9478-43f3-937e-be9d0f63fde8" "City of Somerville Public Meetings" %}}
+[City of Somerville Public Meetings](https://somervillecityma.iqm2.com/Citizens/calendar.aspx)
 
 ## {{% resource_link "71075161-6b3b-0f5e-c597-1be17a56214f" "Assignment 4" %}} – Open-ended
 

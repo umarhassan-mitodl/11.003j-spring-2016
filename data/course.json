@@ -63,6 +63,7 @@
     "website": "11-003j-methods-of-policy-analysis-spring-2016"
   },
   "course_title": "Methods of Policy Analysis",
+  "hide_download": true,
   "course_description": "This course provides an introduction to public policy analysis. It is designed for students who may be planning a career in public or non-profit sectors. The primary goal is to help students understand the implications of public policy for different pursuits. The class examines various approaches to policy analysis by considering the concepts, tools, and methods used in economics, political science, and other disciplines. Students apply and critique these approaches through case studies of current public policy problems.\n",
   "department_numbers": [
     "11",
@@ -74,6 +75,7 @@
     "content": "34d3ab42-1c39-e4c8-8a5e-ee4366ad69dc",
     "website": "11-003j-methods-of-policy-analysis-spring-2016"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments"
   ],

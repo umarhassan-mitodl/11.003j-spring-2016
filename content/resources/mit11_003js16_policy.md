@@ -4,6 +4,8 @@ description: This resource contains the information regarding what is policy ana
 file: /courses/11-003j-methods-of-policy-analysis-spring-2016/e9b40acde2a1acfa40c5e88a139b0e67_MIT11_003JS16_Policy.pdf
 file_size: 1345366
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
